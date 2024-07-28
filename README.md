@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on some personal and open-source projects
-- 🌱 I’m currently learning python, mysql, web development and mysql
+- 🌱 I’m currently learning python, web development and mysql
 - 👯 I’m looking to collaborate on anything related to front-end design/development
 - &#x1F680; Personal site <a href="https://gc-resume.vercel.app"> here </a>
 
